@@ -1,0 +1,11 @@
+{
+    "require": {
+        "adnanhussainturki/microsoft-api-php": "^0.03.0",
+        "microsoft/azure-storage-blob": "*",
+        "microsoft/azure-storage-table": "*",
+        "microsoft/azure-storage-queue": "*",
+        "microsoft/azure-storage-file": "*",
+        "vgrem/php-spo": "^3.1"     
+    }
+
+}
